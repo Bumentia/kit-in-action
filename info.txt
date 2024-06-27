@@ -1,2 +1,3 @@
 Name: Phumipat
 Sex : Male
+Address : Bangkok
